@@ -8,8 +8,8 @@
 
 
 
-<ol>
-<li>now use productsCart file</li>
-<li>const dispatch=useDisatch()</li>
-<li>{()=>dispatch(addToCart(product))}</li>
-</ol>
+<ul>
+<li>1) now use productsCart file</li>
+<li>2) const dispatch=useDisatch()</li>
+<li>3) {()=>dispatch(addToCart(product))}</li>
+</ul>
