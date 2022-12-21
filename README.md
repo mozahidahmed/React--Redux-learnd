@@ -6,6 +6,10 @@
 <li> 3) reducer / producteReducer  </li>
 </ul>
 
-<h6>now use productsCart file</h6>
-<h6>const dispatch=useDisatch()</h6>
-<h6>{()=>dispatch(addToCart(product))}</h6>
+
+
+<ol>
+<li>now use productsCart file</li>
+<li>const dispatch=useDisatch()</li>
+<li>{()=>dispatch(addToCart(product))}</li>
+</ol>
