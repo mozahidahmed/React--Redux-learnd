@@ -1,6 +1,6 @@
 <ul>
 <li>1) npm install redux </li>
-<li>2) mom install react-redux</li>
+<li>2) npm install react-redux</li>
 <ul>
 
 
